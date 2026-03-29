@@ -1,8 +1,8 @@
 div {
-    width: 230px;
-    height: 200px;
+    width: 1030px;
+    height: 1200px;
     display: block;
-    background-color: rgb(160, 228, 121);
+    background-color: #e5ebe1;
 }
 
 labal {
@@ -28,5 +28,6 @@ input:hover {
 submit {
     color: blueviolet;
     font-size: 10px;
+    position:calc(10);
 
 }
